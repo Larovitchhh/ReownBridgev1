@@ -1,11 +1,11 @@
-[ReownBridgev1]
-name = "ReownBridgev1"
+[ReownBridgev1f]
+name = "ReownBridgev1f"
 description = "Create a project from scratch: Start from a blank scaffold for your next Clarity contract"
 authors = []
 telemetry = true
 cache_dir = "./.cache"
 
-# [contracts.ReownBridgev1]
+# [contracts.ReownBridgev1f]
 # path = "contracts/ReownBridgev1.clar"
 
 [repl.analysis]
